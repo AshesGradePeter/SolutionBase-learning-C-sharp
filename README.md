@@ -1,2 +1,2 @@
-# SolutionBase-learning-C-sharp
-# Tools IDE VS2019
+本解决方案使用的工具是 VS2019
+包含8天的C#基础学习代码
